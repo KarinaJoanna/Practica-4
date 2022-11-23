@@ -27,7 +27,7 @@ Estas son algunos de los programas que se utilizaron y sus extensiones.
 
 ### Ejercicio 1
 
-
+---
 
 ### Ejercicio 2
 
