@@ -5,38 +5,25 @@
 
 En esta actividad se realizaron dos ejercicios independientes. Se adjunta un archivo empaquetado con las imágenes y archivos base para esta actividad.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+* HTML
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Estas son algunos de los programas que se utilizaron y sus extensiones.
+
+* Visual Studio Code
   ```sh
-  npm install npm@latest -g
+  techer.open-in-browser
   ```
+  ```sh
+  naumovs.color-highlight
+  ```
+  
+* GitHub Desktop
+  
 
 ### Ejercicio 1
 
@@ -61,7 +48,4 @@ This is an example of how to list things you need to use the software and how to
 
 Los resultados de los 3 ejercicios se muestran en la carpeta de resultados:
 
-_For more examples, please refer to the [Documentation]([https://example.com](https://github.com/KarinaJoanna/Actividad-6/tree/main/resultados))_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+[(https://github.com/KarinaJoanna/Actividad-6/tree/main/resultados)]
