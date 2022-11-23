@@ -48,4 +48,4 @@ Estas son algunos de los programas que se utilizaron y sus extensiones.
 
 Los resultados de los 3 ejercicios se muestran en la carpeta de resultados:
 
-[(https://github.com/KarinaJoanna/Actividad-6/tree/main/resultados)]
+[(https://github.com/KarinaJoanna/Practica-4/tree/main/resultados)]
