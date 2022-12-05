@@ -12,7 +12,7 @@ En esta actividad se realizaron dos ejercicios independientes. Se adjunta un arc
 
 ### Prerequisites
 
-Estas son algunos de los programas que se utilizaron y sus extensiones.
+Estos son algunos de los programas que se utilizaron y sus extensiones.
 
 * Visual Studio Code
   ```sh
